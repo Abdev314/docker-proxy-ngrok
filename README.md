@@ -1,11 +1,11 @@
 # Docker Image Pull Through HTTP Proxy for Isolated Linux Servers & Lightweight Proxy Gateway Setup
 
-![Debian](https://img.shields.io/badge/Debian-13-A81D33?logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
-![Tinyproxy](https://img.shields.io/badge/Proxy-Tinyproxy-green)
-![ngrok](https://img.shields.io/badge/ngrok-Tunnel-1F1E37?logo=ngrok&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-4-orange)
+[![Debian](https://img.shields.io/badge/Debian-13-A81D33?logo=debian&logoColor=white)](https://www.debian.org/doc/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Tinyproxy](https://img.shields.io/badge/Proxy-Tinyproxy-green)](https://tinyproxy.github.io/)
+[![ngrok](https://img.shields.io/badge/ngrok-Tunnel-1F1E37?logo=ngrok&logoColor=white)](https://ngrok.com/docs)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/15/)
+[![pgAdmin](https://img.shields.io/badge/pgAdmin-4-orange)](https://www.pgadmin.org/docs/)
 
 > A practical infrastructure solution for restricted network environments — enabling Docker image pulling and public app exposure via a LAN proxy gateway.
 
